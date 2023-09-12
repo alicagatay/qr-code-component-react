@@ -1,6 +1,6 @@
 {
   "name": "qr-code-component-react",
-  "home": "http://alicagatay.github.io/qr-code-component-react",
+  "homepage": "https://alicagatay.github.io/qr-code-component-react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
