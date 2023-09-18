@@ -1,5 +1,5 @@
 body {
-  background-color: #ccdaec;
+  background-color: hsl(212, 45%, 89%);
 }
 
 .App {
@@ -12,7 +12,7 @@ body {
   justify-content: center;
   flex-direction: column;
   align-items: center;
-  background-color: #fff;
+  background-color: hsl(0, 0%, 100%);
   margin: 0 auto;
   margin-top: 50px;
   margin-bottom: 50px;
@@ -38,7 +38,7 @@ body {
 }
 
 .TextComponent2 {
-  color: #77797e;
+  color: hsl(220, 15%, 30%);
   margin-right: 20px;
   margin-left: 20px;
   font-size: 15px;
